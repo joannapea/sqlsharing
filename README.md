@@ -1,4 +1,4 @@
-# Gated Public Preview of SQL-based sharing with Azure Data Share
+# Limited Public Preview of SQL-based sharing with Azure Data Share
 Welcome to the Public Preview of SQL-based sharing with Azure Data Share. This article describes how to get started with SQL-based sharing. Please ensure that you follow all pre-requisites outlined in the documentation in order to successfully share and receive Azure SQL data!
 
 Firstly, please ensure that you have sent us your Azure Subscription ID(s) for the Azure subscriptions you'd like to share data from and to. This is submitted when signing up for the gated preview, which should have been done by filling out the [sign up form](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR0heU5TPS0NOh6Qsb8I9HMFUMkNBM0pSSTJCMTVRRlpQWFc3WTVOU0ZQWC4u).
