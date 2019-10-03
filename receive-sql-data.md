@@ -94,7 +94,3 @@ You can trigger a snapshot in the Received Shares -> Details tab by selecting **
 ![Trigger snapshot](./media/trigger-snapshot.png "Trigger snapshot") 
 
 When the last run status is *successful*, check your SQL Server to ensure that the table(s) and/or view(s) appear in your database. 
-
-## Next steps
-Check out our Troubleshooting guide. 
-
