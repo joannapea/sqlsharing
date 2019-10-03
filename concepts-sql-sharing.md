@@ -30,5 +30,5 @@ The table generated on the data consumers SQL Server will have the same name as 
 
 ## Next steps
 
-- Learn how to share data from Azure SQL Database or Azure SQL Data Warehouse - [SQL-based sharing](share-sql-data.md)
+- Learn how to share data from Azure SQL Database or Azure SQL Data Warehouse - [SQL-based sharing](share-your-sql-data.md)
 
