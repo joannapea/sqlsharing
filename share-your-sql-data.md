@@ -32,7 +32,7 @@ In this tutorial, you'll learn how to:
         
             exec sp_addrolemember db_owner, <share_acct_name>;
     
-            Note that the *<share_acc_name>* is the name of your Data Share Account. If you have not created a Data Share account as yet, you can come back to this pre-requisite later.         
+Note that the *<share_acc_name>* is the name of your Data Share Account. If you have not created a Data Share account as yet, you can come back to this pre-requisite later.         
 
 * Client IP SQL Server Firewall access: This can be done through the following steps: 
         1. Navigate to *Firewalls and Virtual Networks*
