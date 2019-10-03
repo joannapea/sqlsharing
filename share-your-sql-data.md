@@ -88,9 +88,7 @@ Create an Azure Data Share resource in an Azure resource group.
 
     ![Datasets](./media/datasets.png "Datasets")
 
-1. Select the dataset type that you would like to add. 
-
-    ![AddDatasets](./media/add-datasets.png "Add Datasets")    
+1. Select the dataset type that you would like to add. For the case of SQL-based sharing, select Azure SQL Database or Azure SQL Data Warehouse depending on where your data is stored. 
 
 1. Navigate to the object you would like to share and select 'Add Datasets'. 
 
@@ -102,7 +100,7 @@ Create an Azure Data Share resource in an Azure resource group.
 
 1. Select **Continue**
 
-1. If you'd like your data consumer to be able to get incremental updates of your data, enable the snapshot schedule. 
+1. If you'd like your data consumer to be able to receive regular snapshots of your data, enable the snapshot schedule. 
 
     ![EnableSnapshots](./media/enable-snapshots.png "Enable snapshots") 
 
